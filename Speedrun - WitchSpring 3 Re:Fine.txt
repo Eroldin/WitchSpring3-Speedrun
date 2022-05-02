@@ -1,6 +1,6 @@
 Chapter 1
 
-Follow Tutorial, always farm if possible. By the first training do the following:
+Follow Tutorial, always farm healing items, and magic/soul ingredients if possible. By the first training do the following:
 1. Sword Training
 2. Magic Shaping
 3. Magic Shaping
@@ -117,7 +117,7 @@ Make Mistyleaf Bunch
 Train list 1 x4
 
 Vist west cave
-Battle 2 Darkman:
+Battle the Darkmans:
 1. Ice Magic
 2. Sword
 
