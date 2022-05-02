@@ -23,12 +23,6 @@ Train after saving:
 4. Magic Researching
 5. Sword Training
 
-1. Magic Shaping
-2. Magic Shaping
-3. Magic Shaping
-4. Magic Researching
-5. Sword Training
-
 Train after finding Adrian (save list 1)
 
 1. Magic Shaping
