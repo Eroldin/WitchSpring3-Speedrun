@@ -1,6 +1,10 @@
 Chapter 1
 
-Follow Tutorial, always farm healing items, and magic/soul ingredients if possible. By the first training do the following:
+Follow Tutorial, always farm healing items, and magic/soul ingredients if possible.
+eventially, I'll stop noting to get the Red mistberry if you walk past it. I expect you to take it yourself.
+This is the same for other items protected by Bosses.
+
+By the first training do the following:
 1. Sword Training
 2. Magic Shaping
 3. Magic Shaping
@@ -117,7 +121,7 @@ Make Mistyleaf Bunch
 Train list 1 x4
 
 Vist west cave
-Battle the Darkmans:
+Battle the upper and first lower Darkmans:
 1. Ice Magic
 2. Sword
 
