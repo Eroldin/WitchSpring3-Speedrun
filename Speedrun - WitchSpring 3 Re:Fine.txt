@@ -266,6 +266,7 @@ Train list 1
 
 Fight Snail
 Fight Warriors x3
+(If you do not have 6 Magic Detectors by now, keep fighting warriors everytime you come to this area til you have)
 
 Teleport Home
 
@@ -404,7 +405,6 @@ Battle
 
 Heal MP
 Visit elder in Zehert
-If training has not increased, move between Zehert, and Zehert Desert, till increase
 Throw Bomb in hole
 
 Battle:
@@ -530,7 +530,7 @@ Heal and return to Ziv, butcher the dark company:
 Trade the gem
 Teleport to home
 
-Make sure you have 3-train units (craft items if not)
+Make sure you have 3-train units (craft bunch x9 if not)
 Fil up your soul gem (big bosses give more) and inject Musclee
 
 Train list 1
