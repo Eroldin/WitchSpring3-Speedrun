@@ -29,7 +29,7 @@ Do Battles in forest with ice and fire magic
 
 Heal MP
 
-Farm staves
+Farm staves if you for some reason do not have enough (6)
 Teleport home
 
 Train
@@ -40,8 +40,8 @@ Train
 5. Sword Training
 Make Greater Focus Circle (and ingredients)
 
- SAVE!
- Farm till you have 1 Best Magic Slab & 1 Basalt stone (don't forget the Red mistberry and slug) reset if needed
+SAVE!
+Farm till you have 1 Best Magic Slab & 1 Basalt stone (don't forget the Red mistberry and slug) reset if needed
 
 Create Greater Boost MC
 Upgrade spells
