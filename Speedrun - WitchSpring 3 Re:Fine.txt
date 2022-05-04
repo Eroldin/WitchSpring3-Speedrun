@@ -303,7 +303,8 @@ Battle Dryad:
 5. Heal MP
 6. Ice Magic
 
-Walk around till you can train
+Make Bunch x5
+Make Bunch x5
 
 Train list 1
 
@@ -386,6 +387,7 @@ Battle Moss golem with Ice Magic
 
 Teleport Home
 Make Soulstone Lv. 4
+Make Bunch x9
 
 Meet velita in Forest
 
