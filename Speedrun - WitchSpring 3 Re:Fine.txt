@@ -27,6 +27,8 @@ Train after saving:
 4. Magic Researching
 5. Sword Training
 
+Farm 5 yellow stone powder
+
 Train after finding Adrian (save list 1)
 
 1. Magic Shaping
@@ -266,7 +268,7 @@ Train list 1
 
 Fight Snail
 Fight Warriors x3
-(If you do not have 6 Magic Detectors by now, keep fighting warriors everytime you come to this area til you have)
+(If you plan to do the true route, and you do not have 6 (4 after crafting a Magic Stone) Magic Detectors by now, keep fighting warriors everytime you come to this area til you have)
 
 Teleport Home
 
@@ -369,7 +371,7 @@ Train list 1
 
 Battle Snail with ice
 
-Battle Basalt Golem with fire magic
+Battle Basalt Golem with fire magic (if you did not farm at least 1 Best Magic Slab in these 2 encounters, reset and manip for a drop by leaving & re-entering the area)
 
 Heal MP
 Increase MAX HP
@@ -510,7 +512,7 @@ Train:
 5. Sword Training
 
 SAVE!
-Farm til you have 1 Bast Magic Slab & 1 Basalt Stone (don't forget the HP Boosts) Reset if needed
+Farm til you have 1 Bast Magic Slab & 1 Basalt Stone (don't forget the HP Boosts) Reset & manip if needed. If you do have an Basalt stone, in exchange for a time loss, you can farm a slab in Dragon Valey
 Create Greater Boost MC
 
 Train List 1
