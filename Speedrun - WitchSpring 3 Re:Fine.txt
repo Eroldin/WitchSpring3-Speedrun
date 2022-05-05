@@ -460,7 +460,6 @@ Battle:
 
 ---ROUTE SPLIT---
 
----Light---
 Sleep
 Travel to Wardilum
 Visit Zehert without boar
@@ -469,6 +468,10 @@ Battle:
 2. Light
 
 Go to Grandma
+Read the other textfile for True Route
+
+---Light---
+
 Teleport home
 Sleep
 Teleport to Marii
